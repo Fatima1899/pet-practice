@@ -1,0 +1,98 @@
+.d-flex{
+    justify-content: flex-end;
+}
+.btn{
+
+    background-color: #ED6436;
+    color: #ffff;
+}
+.btn:hover{
+    background-color: #ED6436;
+}
+.row-header{
+    background-color: #181818;
+    height: 80px ;
+}
+.nav-link  {
+    color: #ffff;
+}
+.nav-link:hover{
+    background-color: #ED6436;
+}
+.pet{
+    font-size: 40px;
+    font-weight: 700;
+    color: #ED6436
+}
+.lover{
+    font-size: 40px;
+    font-weight: 700;
+}
+.bio{
+    display: flex;
+    justify-content: flex-end;
+
+}
+.hours{
+    margin: 10px;
+}
+.email{
+    margin: 10px;
+}
+.call{
+    margin: 10px;
+}
+#link{
+    background-color: #65C178;
+    height: 40px;
+    display: flex;
+ 
+}
+    
+.link a{
+    color: #ffff;
+    text-decoration: none;
+}
+.social a{
+    color: #ffff;
+    font-size: 15px;
+    margin: 10px;
+}
+.social{
+    text-align: end;
+}
+.item-1{
+position: absolute;
+left: 650px;
+top:500px;
+text-align: center;
+}
+.item-1 h3{
+    font-size: 30px;
+    font-weight: 700;
+    color: #ffff;
+}
+.item-1 h1{
+    font-size: 50px;
+    font-weight: 700;
+    color: #ffff;
+}
+.item-1 h5{
+    font-size: 20px;
+    font-weight: 700;
+    color: #ffff;
+}
+.btn-now{
+    margin: 5px;
+    background-color: #ED6436;
+    color: #ffff;
+}
+.btn-learn{
+    margin: 5px;
+    background-color: #65C178;
+    color: #ffff;
+}
+.btn-learn:hover{
+    background-color: #65C178;
+}
+
